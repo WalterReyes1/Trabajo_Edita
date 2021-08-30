@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public abstract  class TDA {
   
-    
+   protected  ArrayList<Character>lista = new ArrayList();
     
     public TDA(){
         

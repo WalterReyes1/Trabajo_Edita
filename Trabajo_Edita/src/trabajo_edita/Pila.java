@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * @author hp
  */
 public class Pila extends TDA {
-    public  ArrayList<Character>lista = new ArrayList();
+    
     Pila(){
         
     }
@@ -18,6 +18,7 @@ public class Pila extends TDA {
     
     @Override
      public void agregar(char c){
+         
          lista.add(c);
      }
      
